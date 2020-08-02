@@ -5,8 +5,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "build:styles": "postcss src/assets/tailwind.css -o ./src/styles.css",
     "prebuild": "npm run build:styles",
     "prestart": "npm run build:styles"

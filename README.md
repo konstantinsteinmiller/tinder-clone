@@ -1,5 +1,11 @@
 Deployed version on firebase [tinder clone](https://tinder-clone-6f8cf.web.app/)
 
+##Technologies
+- tailwindcss
+- react.js
+
+##Impressions
+
 ![shiptrack search](https://raw.githubusercontent.com/konstantinsteinmiller/tinder-clone/master/images/tinder-clone-1.png)
 ![shiptrack search](https://raw.githubusercontent.com/konstantinsteinmiller/tinder-clone/master/images/tinder-clone-2.png)
 ![shiptrack search](https://raw.githubusercontent.com/konstantinsteinmiller/tinder-clone/master/images/tinder-clone-3.png)
